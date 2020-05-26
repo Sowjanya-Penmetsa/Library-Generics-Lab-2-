@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\bin\Debug\netcoreapp3.1\Library.exe
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab2\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
